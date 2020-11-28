@@ -1,3 +1,26 @@
+## volta_simulation (melodic) - 1.1.0-2
+
+The packages in the `volta_simulation` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic volta_simulation` on `Sat, 28 Nov 2020 06:04:47 -0000`
+
+The `volta_simulation` package was released.
+
+Version of package(s) in repository `volta_simulation`:
+
+- upstream repository: https://github.com/botsync/volta_simulation.git
+- release repository: https://github.com/botsync-gbp/volta_simulation-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.1.0-1`
+- new version: `1.1.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## volta_simulation (kinetic) - 1.0.0-3
 
 The packages in the `volta_simulation` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic volta_simulation` on `Sat, 28 Nov 2020 05:52:47 -0000`
