@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <launch>
-    <arg name="indoor" default="true"/>
+    <arg name="indoor" default="false"/>
     <arg if="$(arg indoor)"	 name="world_choice" value="indoor"/>
 
     <arg name="indoor_dynamic" default="false"/>
@@ -9,7 +9,7 @@
     <arg name="office" default="false"/>
     <arg if="$(arg office)" 	 name="world_choice" value="office"/>
     
-    <arg name="office_full" default="false"/>
+    <arg name="office_full" default="true"/>
     <arg if="$(arg office_full)" name="world_choice" value="office_full"/>
 
     <arg name="world" default="$(find volta_simulation)/worlds/$(arg world_choice).world"/>
