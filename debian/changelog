@@ -1,0 +1,18 @@
+ros-kinetic-volta-simulation (1.0.1-1xenial) xenial; urgency=high
+
+  * Fixed versions
+  * Added gazebo models and updated launch files.
+  * Kinetic devel r2 update to Kinetic (#3 <https://github.com/botsync/volta_simulation/issues/3>)
+    * Merged volta_development.
+    * Changed maintainer name.
+  * Contributors: Toship
+
+ -- Nikhil Venkatesh <nikhil@botsync.co>  Sun, 21 Mar 2021 18:30:00 -0000
+
+ros-kinetic-volta-simulation (1.0.0-1xenial) xenial; urgency=high
+
+  * First Release
+
+ -- Mahendra L Seervi <mahendra.l@botsync.co>  Wed, 18 Nov 2020 18:30:00 -0000
+
+
